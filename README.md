@@ -2,7 +2,7 @@
 ![](https://i.imgur.com/VPOAwgy.png)
 
 
-Skills: HTML | CSS | JS | DOCKER | WS2019 | C# | LINUX
+Skills: HTML | CSS | JS | DOCKER | WS2019 | C# | LINUX | CISCO | PHP
 
 - 🔭 I’m currently working on websites 
 - 📫 How to reach me ? Discord | Kristóf#7344 
