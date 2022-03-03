@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kristóf
+### Hi there 👋
 ![](https://i.imgur.com/VPOAwgy.png)
 
 I made this project just for fun
