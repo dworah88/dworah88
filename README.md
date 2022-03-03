@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![](https://i.imgur.com/VPOAwgy.png)
 
-I made this project just for fun
 
 Skills: HTML | CSS | JS | DOCKER | WS2019 | C# | LINUX
 
