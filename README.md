@@ -3,6 +3,7 @@
 
 
 Skills: HTML | CSS | JS | DOCKER | WS2019 | C# | LINUX | CISCO | PHP
+(Their learning is in progress)
 
 - 🔭 I’m currently working on websites 
 - 📫 How to reach me ? Discord | Kristóf#7344 
