@@ -1,5 +1,4 @@
-### Hi there 👋
-![](https://i.imgur.com/VPOAwgy.png)
+
 
 
 Skills: HTML | CSS | JS | DOCKER | WS2019 | C# | LINUX | CISCO | PHP
